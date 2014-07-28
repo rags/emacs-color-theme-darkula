@@ -32,7 +32,7 @@
  '(button ((t (:inherit (link)))))
  '(link ((t (:weight normal :slant normal :underline (:color foreground-color :style line) :inverse-video nil :foreground "#5859b7"))))
  '(link-visited ((t (:weight normal :slant normal :underline (:color foreground-color :style line) :inverse-video nil :foreground "#c61b6e" :inherit (link)))))
- '(fringe ((t (:background "#1b1b1b" :foreground nil))))
+ '(fringe ((t (:background "#2b2b2b" :foreground nil))))
  '(header-line ((t (:weight normal :slant normal :underline nil :box nil :inverse-video t :foreground "#708183" :background "#0a2832" :inherit (mode-line)))))
  '(tooltip ((((class color)) (:inherit (variable-pitch) :foreground "black" :background "lightyellow")) (t (:inherit (variable-pitch)))))
  '(mode-line ((t (:weight normal :slant normal :underline nil :box nil :inverse-video t :foreground "#81908f" :background "#0a2832"))))
